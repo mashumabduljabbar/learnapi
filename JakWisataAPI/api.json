@@ -1,5 +1,67 @@
 [
   {
+    "name": "Taman Rekreasi",
+    "objek": [
+      {
+        "name": "recreation",
+        "tempat": [
+          {
+            "name": "Ancol & Dufan",
+            "review": "4.7",
+            "description": "Taman Impian Ancol, Jakarta Utara masih menjadi tempat rekreasi favorit warga untuk menghabiskan waktu liburan. Bahkan, selama libur panjang ini, pihak manajemen juga memberikan promo harga tiket kepada pengunjung.\n\nDufan atau disebut juga Dunia Fantasi adalah theme park yang terletak di kawasan Taman Impian Jaya Ancol, Jakarta Utara, Indonesia yang diresmikan dan dibuka untuk umum pada tanggal 29 Agustus 1985.",
+			"address" : "Jl. Lodan Timur No.7, RW.10, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+			"jam_operasional" : "Jam Buka Pantai : 06.00 – 19.30 WIB",
+			"tiket_masuk" : "Tiket Masuk Ancol Mulai dari Rp 25.000\nTiket Dufan Mulai dari RP 150.000\nSea World Ancol Mulai dari Rp 71.000\nSamudra Mulai dari Rp 60.000",
+            "places": [
+              {
+                "name": "Ancol",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/recreation/ancol.jpg"
+              },
+              {
+                "name": "Pantai",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/recreation/Pantai-Ancols.jpg"
+              },
+              {
+                "name": "Sea World",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/recreation/sea3.jpg"
+              },
+              {
+                "name": "Ocean Dream",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/recreation/ocean-dream-samudra.jpg"
+              }
+            ]
+          },
+		  {
+            "name": "Taman Mini Indonesia Indah",
+            "review": "4.7",
+            "description": "Taman Mini Indonesia Indah adalah salah satu kawasan pendidikan sekaligus rekreasi. Diprakarsai oleh mantan Ibu Negara Indonesia Ibu Tien Soeharto, Taman Mini adalah sebuah taman besar yang selain di sini juga memiliki sejumlah museum.\n\n Ada juga Museum Fauna berbentuk komodo besar, Museum Transportasi, dan masih banyak lagi, selain teater Imax dan Planetarium. Pertunjukan budaya reguler dalam gaya tradisional dan kontemporer dari seluruh kepulauan Indonesia dalam drama, tari dan musik diadakan secara teratur di dua teater utama.\n\nDi Taman Mini Indonesia Indah juga terdapat Taman Anggrek yang luas, di mana orang dapat menemukan berbagai macam jenis anggrek untuk dikagumi dan dibeli. Dan, untuk rekreasi keluarga dan bersenang-senang, Taman Mini Indonesia Indah telah membangun area olahraga air yang disebut Snowbay. Di sini juga ada asrama mahasiswa. Menampilkan rumah adat seukuran aslinya dari seluruh 33 provinsi di Indonesia. Di sini orang dapat mengagumi Rumah Gadang Minangkabau yang diukir dengan indah, Tongkonan Toraja hingga rumah panjang Dayak dari Kalimantan dan rumah megalitik Nias.",
+			"address" : "Jl. Lodan Timur No.7, RW.10, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
+			"jam_operasional" : "Jam Buka Pantai : 06.00 – 19.30 WIB",
+			"tiket_masuk" : "Tiket Masuk Ancol Mulai dari Rp 25.000\nTiket Dufan Mulai dari RP 150.000\nSea World Ancol Mulai dari Rp 71.000\nSamudra Mulai dari Rp 60.000",
+            "places": [
+              {
+                "name": "Taman Legenda",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/recreation/tmii1"
+              },
+              {
+                "name": "Keong Mas",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/recreation/tmii-keong-mas"
+              },
+              {
+                "name": "Istana Anak",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/recreation/tmii-istana-anak.jpeg"
+              },
+              {
+                "name": "Rumah Adat",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/recreation/tmii-rumahadat.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "Cagar Budaya",
     "objek": [
       {
