@@ -52,69 +52,7 @@
 			"places": [
               {
                 "name": "Coliseu",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/coliseu.jpg"
-              },
-              {
-                "name": "Basílica de São Pedro",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/basilica_de_sao_pedro.jpg"
-              },
-              {
-                "name": "Panteão",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/panteao.jpg"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Turkey",
-        "tempat": [
-          {
-            "name": "Istanbul",
-            "review": "4.2",
-            "description": "Landjaeger adipisicing buffalo lorem flank. Commodo in dolore pork strip steak ribeye consequat beef. Deserunt anim swine aliquip voluptate ground round pariatur commodo meatball. Aliquip pariatur nulla doner elit eu fugiat nisi.",
-            "address" : "a",
-			"jam_operasional" : "b",
-			"tiket_masuk" : "c",
-			"places": [
-              {
-                "name": "Santa Sofia",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/santa_sofia.jpg"
-              },
-              {
-                "name": "Mesquita Azul",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/mesquita_azul.jpg"
-              },
-              {
-                "name": "Palácio de Topkapi",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/palacio_de_topkapi.jpg"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Germany",
-        "tempat": [
-          {
-            "name": "Berlin",
-            "review": "4.2",
-            "description": "Culpa burgdoggen drumstick velit pancetta frankfurter. Est turducken jowl, excepteur venison quis kielbasa. Shankle pastrami in esse alcatra nisi biltong adipisicing. Turkey non pariatur et leberkas bresaola, ball tip incididunt in ex excepteur mollit cow culpa in.",
-            "address" : "a",
-			"jam_operasional" : "b",
-			"tiket_masuk" : "c",
-			"places": [
-              {
-                "name": "Portão de Brandemburgo",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/portao_de_brandemburgo.jpg"
-              },
-              {
-                "name": "Palácio do Reichstag",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/palacio_do_reichstag.jpg"
-              },
-              {
-                "name": "Ilha dos Museus",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/ilha_dos_museus.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Patung_Taman_Banteng_2.jpg"
               }
             ]
           }
