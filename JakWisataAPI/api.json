@@ -9,7 +9,7 @@
             "name": "Menara Syahbandar",
             "review": "4.2",
             "description": "Dulunya, menara ini dibangun oleh pemerintah kolonial Belanda sekitar tahun 1839 dan dikenal dengan nama Uitkijk. Menara ini berfungsi sebagai tempat untuk memantau kapal-kapal yang masuk dan keluar kota Batavia melalui jalur laut. Selain itu, menara ini juga digunakan sebagai kantor pabean yang merupakan tempat pemungutan pajak atas barang-barang yang dibongkar di Pelabuhan Sunda Kelapa.\n\nMenara harbourmaster memiliki ketinggian 12 meter dan ada tiga lantai yang bisa dikunjungi. Di lantai satu terdapat batu prasasti kedatangan seorang saudagar Cina pada abad ke-17. Prasasti batu tersebut merupakan penanda titik nol Batavia atau Jakarta saat itu. Naik ke lantai berikutnya, Anda bisa melihat banyak kotak kaca berisi teropong yang masih asli dan berusia hampir satu setengah abad. Teropong ini digunakan untuk memantau kapal. Di lantai dua, Anda akan melihat banyak jendela besar khas bangunan tua. Kemudian di lantai paling atas merupakan tempat untuk memantau kapal-kapal yang melewati jalur perdagangan keluar masuk Kota Batavia. Di lantai atas, Anda bisa melihat pemandangan di sekitar area Menara Syahbandar, mulai dari jembatan, bioskop pertama, monumen Pantura, dan Museum Bahari.",
-			"address" : "Kompleks Menara Syahbandar. Jl. Pasar Ikan No.1; Kel. Penjaringan; Kec. Penjaringan; Jakarta Utara 14440, Kota Jakarta Utara, DKI Jakarta.",
+			"address" : "Jl. Pasar Ikan No.1 Kel. Penjaringan, Kec. Penjaringan, Kota Jakarta Utara, DKI Jakarta. 14440",
 			"jam_operasional" : "Sesuai dengan ketentuan PSBB Peralihan Senin - Jumat mulai pukul 05.00 - 18.00 WIB Sabtu mulai pukul 05.00 - 11.00 WIB Minggu mulai pukul 14.00 - 18.00 WIB",
 			"tiket_masuk" : "Dewasa : Rp. 5.000 Siswa : Rp. 3.000 Anak-anak : Rp. 2.000",
             "places": [
@@ -24,24 +24,16 @@
             ]
           },
           {
-            "name": "Bordeaux",
-            "review": "3.6",
-            "description": "Ea drumstick fatback dolore reprehenderit. Picanha eiusmod chicken, ea dolore bresaola sunt consectetur pork loin tenderloin. Flank pig tri-tip, boudin lorem et labore ham porchetta do qui. Duis in lorem magna beef frankfurter ea eiusmod jowl cillum voluptate. Ut exercitation spare ribs tempor, rump pork chop hamburger culpa chicken ribeye dolor id doner.",
-            "address" : "a",
-			"jam_operasional" : "b",
-			"tiket_masuk" : "c",
+            "name": "Lapangan Banteng",
+            "review": "4.6",
+            "description": "Taman Lapangan Banteng yang terletak di Jakarta Pusat kini menjadi salah satu ruang terbuka favorit warga Jakarta untuk menghabiskan akhir pekan atau sekedar mengobrol menikmati sunset. Revitalisasi Taman Lapangan Banteng yang selesai pada tahun 2018 menjadikan lapangan ini sebagai tempat yang menarik untuk menghabiskan akhir pekan bersama keluarga, teman atau pasangan. Taman Lapangan Banteng mulai direvitalisasi pada era Gubernur DKI Jakarta Basuki Tjahaja Purnama alias Ahok dan diresmikan oleh Gubernur Anies Baswedan. Keistimewaan taman ini adalah pertunjukan air menari yang bisa disaksikan setiap akhir pekan pada pukul 18.30, 19.30, dan 20.30 WIB.\n\n Sejarah Taman Lapangan Banteng sebenarnya cukup panjang untuk dibahas. Dulu, tempat ini disebut Waterlooplein atau Lapangan Waterloo. Dikutip dari buku berjudul Asal Mula Nama Tempat di Jakarta atau Asal Mula Nama Tempat di Jakarta karya Rachmat Ruchiat, pada masa penjajahan Belanda, Lapangan Banteng dikenal dengan nama Lapangan Singa. Hal ini karena di tengah lapangan terdapat tugu peringatan kemenangan perang di waterloo dengan patung singa di atasnya. Namun, pada masa pendudukan Jepang, monumen itu diruntuhkan. Setelah itu, atas inisiasi Bung Karno, dibangunlah Monumen Pembebasan Irian Barat.\n\nMonumen ini dibuat untuk mengenang para pejuang Trikora dan masyarakat Irian Barat yang memilih menjadi bagian dari Negara Kesatuan Republik Indonesia. Bung Karno (Presiden pertama Indonesia) berharap siapapun yang melihatnya akan terpacu adrenalin, membangkitkan rasa nasionalisme, dan menjadi kebanggaan para pejuang tanah air. Kini, taman Lapangan Banteng menjadi salah satu objek wisata di Jakarta karena memiliki keindahan yang sangat menarik untuk dikunjungi.",
+            "address" : "Pasar Baru, Sawah Besar District, Central Jakarta City, DKI Jakarta 10710",
+			"jam_operasional" : "Sesuai dengan ketentuan PSBB Peralihan Senin - Jumat mulai pukul 05.00 - 18.00 WIB Sabtu mulai pukul 05.00 - 11.00 WIB Minggu mulai pukul 14.00 - 18.00 WIB",
+			"tiket_masuk" : "Gratis",
 			"places": [
               {
-                "name": "Place de la Bourse",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/place_de_la_bourse.jpg"
-              },
-              {
-                "name": "Catedral de Bordéus",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/catedral_de_bordeus.jpg"
-              },
-              {
-                "name": "Praça de Quinconces",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/praca_de_quinconces.jpg"
+                "name": "Patung_Taman_Banteng_2",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/place_de_la_bourse.jpg"
               }
             ]
           }
@@ -60,15 +52,15 @@
 			"places": [
               {
                 "name": "Coliseu",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/coliseu.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/coliseu.jpg"
               },
               {
                 "name": "Basílica de São Pedro",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/basilica_de_sao_pedro.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/basilica_de_sao_pedro.jpg"
               },
               {
                 "name": "Panteão",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/panteao.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/panteao.jpg"
               }
             ]
           }
@@ -87,15 +79,15 @@
 			"places": [
               {
                 "name": "Santa Sofia",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/santa_sofia.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/santa_sofia.jpg"
               },
               {
                 "name": "Mesquita Azul",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/mesquita_azul.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/mesquita_azul.jpg"
               },
               {
                 "name": "Palácio de Topkapi",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/palacio_de_topkapi.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/palacio_de_topkapi.jpg"
               }
             ]
           }
@@ -114,15 +106,15 @@
 			"places": [
               {
                 "name": "Portão de Brandemburgo",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/portao_de_brandemburgo.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/portao_de_brandemburgo.jpg"
               },
               {
                 "name": "Palácio do Reichstag",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/palacio_do_reichstag.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/palacio_do_reichstag.jpg"
               },
               {
                 "name": "Ilha dos Museus",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/ilha_dos_museus.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/ilha_dos_museus.jpg"
               }
             ]
           }
