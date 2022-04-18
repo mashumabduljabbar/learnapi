@@ -1,6 +1,6 @@
 [
   {
-    "name": "Heritage",
+    "name": "Cagar Budaya",
     "objek": [
       {
         "name": "heritage",
@@ -9,6 +9,9 @@
             "name": "Menara Syahbandar",
             "review": "4.2",
             "description": "Dulunya, menara ini dibangun oleh pemerintah kolonial Belanda sekitar tahun 1839 dan dikenal dengan nama Uitkijk. Menara ini berfungsi sebagai tempat untuk memantau kapal-kapal yang masuk dan keluar kota Batavia melalui jalur laut. Selain itu, menara ini juga digunakan sebagai kantor pabean yang merupakan tempat pemungutan pajak atas barang-barang yang dibongkar di Pelabuhan Sunda Kelapa.\n\nMenara harbourmaster memiliki ketinggian 12 meter dan ada tiga lantai yang bisa dikunjungi. Di lantai satu terdapat batu prasasti kedatangan seorang saudagar Cina pada abad ke-17. Prasasti batu tersebut merupakan penanda titik nol Batavia atau Jakarta saat itu. Naik ke lantai berikutnya, Anda bisa melihat banyak kotak kaca berisi teropong yang masih asli dan berusia hampir satu setengah abad. Teropong ini digunakan untuk memantau kapal. Di lantai dua, Anda akan melihat banyak jendela besar khas bangunan tua. Kemudian di lantai paling atas merupakan tempat untuk memantau kapal-kapal yang melewati jalur perdagangan keluar masuk Kota Batavia. Di lantai atas, Anda bisa melihat pemandangan di sekitar area Menara Syahbandar, mulai dari jembatan, bioskop pertama, monumen Pantura, dan Museum Bahari.",
+			"address" : "Kompleks Menara Syahbandar. Jl. Pasar Ikan No.1; Kel. Penjaringan; Kec. Penjaringan; Jakarta Utara 14440, Kota Jakarta Utara, DKI Jakarta.",
+			"jam_operasional" : "",
+			"tiket_masuk" : "",
             "places": [
               {
                 "name": "Menara",
@@ -24,7 +27,10 @@
             "name": "Bordeaux",
             "review": "3.6",
             "description": "Ea drumstick fatback dolore reprehenderit. Picanha eiusmod chicken, ea dolore bresaola sunt consectetur pork loin tenderloin. Flank pig tri-tip, boudin lorem et labore ham porchetta do qui. Duis in lorem magna beef frankfurter ea eiusmod jowl cillum voluptate. Ut exercitation spare ribs tempor, rump pork chop hamburger culpa chicken ribeye dolor id doner.",
-            "places": [
+            "address" : "",
+			"jam_operasional" : "",
+			"tiket_masuk" : "",
+			"places": [
               {
                 "name": "Place de la Bourse",
                 "img": "https://api.b7web.com.br/flutter1wb/imgs/place_de_la_bourse.jpg"
@@ -48,7 +54,10 @@
             "name": "Rome",
             "review": "4.2",
             "description": "Consectetur commodo pork shoulder qui in mollit. Minim veniam aliqua, cow leberkas pork short ribs salami. Jowl quis proident tri-tip leberkas, pork loin filet mignon swine bresaola eiusmod sirloin ribeye t-bone. Tenderloin pariatur lorem, tempor hamburger bresaola magna porchetta shank. Ut ribeye ad sausage kevin, t-bone anim chislic dolore cupim adipisicing. Shankle pork swine jerky pastrami leberkas.",
-            "places": [
+            "address" : "",
+			"jam_operasional" : "",
+			"tiket_masuk" : "",
+			"places": [
               {
                 "name": "Coliseu",
                 "img": "https://api.b7web.com.br/flutter1wb/imgs/coliseu.jpg"
@@ -72,7 +81,10 @@
             "name": "Istanbul",
             "review": "4.2",
             "description": "Landjaeger adipisicing buffalo lorem flank. Commodo in dolore pork strip steak ribeye consequat beef. Deserunt anim swine aliquip voluptate ground round pariatur commodo meatball. Aliquip pariatur nulla doner elit eu fugiat nisi.",
-            "places": [
+            "address" : "",
+			"jam_operasional" : "",
+			"tiket_masuk" : "",
+			"places": [
               {
                 "name": "Santa Sofia",
                 "img": "https://api.b7web.com.br/flutter1wb/imgs/santa_sofia.jpg"
@@ -96,7 +108,10 @@
             "name": "Berlin",
             "review": "4.2",
             "description": "Culpa burgdoggen drumstick velit pancetta frankfurter. Est turducken jowl, excepteur venison quis kielbasa. Shankle pastrami in esse alcatra nisi biltong adipisicing. Turkey non pariatur et leberkas bresaola, ball tip incididunt in ex excepteur mollit cow culpa in.",
-            "places": [
+            "address" : "",
+			"jam_operasional" : "",
+			"tiket_masuk" : "",
+			"places": [
               {
                 "name": "Portão de Brandemburgo",
                 "img": "https://api.b7web.com.br/flutter1wb/imgs/portao_de_brandemburgo.jpg"
