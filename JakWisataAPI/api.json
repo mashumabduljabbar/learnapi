@@ -1,26 +1,22 @@
 [
   {
-    "name": "EUROPA",
-    "countries": [
+    "name": "Heritage",
+    "objek": [
       {
-        "name": "France",
-        "cities": [
+        "name": "heritage",
+        "tempat": [
           {
-            "name": "Paris",
+            "name": "Menara Syahbandar",
             "review": "4.2",
-            "description": "Chislic esse t-bone, consectetur ex exercitation leberkas cupim short loin burgdoggen ribeye. Meatball ad pastrami mollit rump aliquip bresaola magna et jowl fugiat. Cillum cow dolore jerky flank, sed kevin nisi do dolor chicken. Kielbasa do pork belly turkey. Reprehenderit do excepteur pancetta rump incididunt. Alcatra adipisicing boudin dolore ullamco cupim ut pork in.",
+            "description": "Dulunya, menara ini dibangun oleh pemerintah kolonial Belanda sekitar tahun 1839 dan dikenal dengan nama Uitkijk. Menara ini berfungsi sebagai tempat untuk memantau kapal-kapal yang masuk dan keluar kota Batavia melalui jalur laut. Selain itu, menara ini juga digunakan sebagai kantor pabean yang merupakan tempat pemungutan pajak atas barang-barang yang dibongkar di Pelabuhan Sunda Kelapa.\n\nMenara harbourmaster memiliki ketinggian 12 meter dan ada tiga lantai yang bisa dikunjungi. Di lantai satu terdapat batu prasasti kedatangan seorang saudagar Cina pada abad ke-17. Prasasti batu tersebut merupakan penanda titik nol Batavia atau Jakarta saat itu. Naik ke lantai berikutnya, Anda bisa melihat banyak kotak kaca berisi teropong yang masih asli dan berusia hampir satu setengah abad. Teropong ini digunakan untuk memantau kapal. Di lantai dua, Anda akan melihat banyak jendela besar khas bangunan tua. Kemudian di lantai paling atas merupakan tempat untuk memantau kapal-kapal yang melewati jalur perdagangan keluar masuk Kota Batavia. Di lantai atas, Anda bisa melihat pemandangan di sekitar area Menara Syahbandar, mulai dari jembatan, bioskop pertama, monumen Pantura, dan Museum Bahari.",
             "places": [
               {
-                "name": "Torre Eiffel",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/torre_eiffel.jpg"
+                "name": "Menara",
+                "img": "https://jakarta-tourism.go.id/uploads/default/files/Menara_Syahbandar_121.jpg"
               },
               {
-                "name": "Museu do Louvre",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/museu_do_louvre.jpg"
-              },
-              {
-                "name": "Catedral de Notredame",
-                "img": "https://api.b7web.com.br/flutter1wb/imgs/catedral_de_notradame.jpg"
+                "name": "Topdal Tunda",
+                "img": "https://jakarta-tourism.go.id/uploads/default/files/Menara_Syahbandar_101.jpg"
               }
             ]
           },
@@ -47,7 +43,7 @@
       },
       {
         "name": "Italy",
-        "cities": [
+        "tempat": [
           {
             "name": "Rome",
             "review": "4.2",
@@ -71,7 +67,7 @@
       },
       {
         "name": "Turkey",
-        "cities": [
+        "tempat": [
           {
             "name": "Istanbul",
             "review": "4.2",
@@ -95,7 +91,7 @@
       },
       {
         "name": "Germany",
-        "cities": [
+        "tempat": [
           {
             "name": "Berlin",
             "review": "4.2",
