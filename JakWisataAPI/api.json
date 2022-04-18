@@ -33,11 +33,11 @@
           },
 		  {
             "name": "Taman Mini Indonesia Indah",
-            "review": "4.7",
+            "review": "4.8",
             "description": "Taman Mini Indonesia Indah adalah salah satu kawasan pendidikan sekaligus rekreasi. Diprakarsai oleh mantan Ibu Negara Indonesia Ibu Tien Soeharto, Taman Mini adalah sebuah taman besar yang selain di sini juga memiliki sejumlah museum.\n\n Ada juga Museum Fauna berbentuk komodo besar, Museum Transportasi, dan masih banyak lagi, selain teater Imax dan Planetarium. Pertunjukan budaya reguler dalam gaya tradisional dan kontemporer dari seluruh kepulauan Indonesia dalam drama, tari dan musik diadakan secara teratur di dua teater utama.\n\nDi Taman Mini Indonesia Indah juga terdapat Taman Anggrek yang luas, di mana orang dapat menemukan berbagai macam jenis anggrek untuk dikagumi dan dibeli. Dan, untuk rekreasi keluarga dan bersenang-senang, Taman Mini Indonesia Indah telah membangun area olahraga air yang disebut Snowbay. Di sini juga ada asrama mahasiswa. Menampilkan rumah adat seukuran aslinya dari seluruh 33 provinsi di Indonesia. Di sini orang dapat mengagumi Rumah Gadang Minangkabau yang diukir dengan indah, Tongkonan Toraja hingga rumah panjang Dayak dari Kalimantan dan rumah megalitik Nias.",
-			"address" : "Jl. Lodan Timur No.7, RW.10, Ancol, Kec. Pademangan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14430",
-			"jam_operasional" : "Jam Buka Pantai : 06.00 – 19.30 WIB",
-			"tiket_masuk" : "Tiket Masuk Ancol Mulai dari Rp 25.000\nTiket Dufan Mulai dari RP 150.000\nSea World Ancol Mulai dari Rp 71.000\nSamudra Mulai dari Rp 60.000",
+			"address" : "Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+			"jam_operasional" : "Senin s/d Jumat (10.00 - 17.00 WIB)",
+			"tiket_masuk" : "Tiket Pintu Masuk Rp. 25.000\n Mobil Rp. 20.000\n Bus Rp. 40.000\n Motor Rp. 15.000\n Sepeda Rp. 5.000",
             "places": [
               {
                 "name": "Taman Legenda",
@@ -54,6 +54,24 @@
               {
                 "name": "Rumah Adat",
                 "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/recreation/tmii-rumahadat.jpg"
+              }
+            ]
+          },
+		  {
+            "name": "Taman Burung",
+            "review": "4.6",
+            "description": "Pada awalnya, Taman Burung TMII hanya memiliki satu kubah. Diresmikan pada 19 Agustus 1976, namun 10 tahun kemudian pada 27 April 1986, Presiden Soeharto meresmikan Taman Burung TMII yang telah diperluas menjadi 9 kubah. Keanekaragaman burung di sini membagi Taman Burung menjadi 2, Kubah Barat dan Kubah Timur, dengan masing-masing sisi menampung koleksi menurut zoogeografi atau persebaran hewan.\n\nKoleksi di Taman Burung terlengkap di Indonesia dengan 175 jenis burung dan ribuan jumlahnya, baik dari Indonesia bagian barat maupun timur. Fasilitas yang lengkap di sini menjadikan Taman Burung sebagai tempat yang baik untuk bersenang-senang bersama keluarga sambil tetap mendidik. Jangan lupa mampir jika sedang berkunjung ke TMII!",
+			"address" : "Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta",
+			"jam_operasional" : "Senin s/d Jumat (10.00 - 17.00 WIB)",
+			"tiket_masuk" : "Rp. 30.000",
+            "places": [
+              {
+                "name": "Merak",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/recreation/tamanburungmerak.jpeg"
+              },
+			  {
+                "name": "Kubah",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/recreation/tamanburung2.jpg"
               }
             ]
           }
@@ -158,7 +176,7 @@
         "name": "nature",
         "tempat": [
           {
-            "name": "Jakarta Mangrove PIK",
+            "name": "Jakarta Mangrove Pantai Indah Kapuk",
             "review": "4.8",
             "description": "Mangrove Jakarta merupakan bagian dari kawasan hutan Angke Kapuk dengan luas 99,82 Ha. Jenis ekosistem yang menjadi habitat berbagai jenis burung air adalah ekosistem mangrove. Tempat ini sebagai sarana wisata alam dengan tetap menjaga kelestarian fungsi mangrove sebagai sistem penyangga kehidupan.\n\nSelain ekosistem mangrove, juga terdapat berbagai jenis hutan pantao/rawa dan fauna yang juga mendominasi kawasan ini, umumnya adalah jenis burung dan hampir semuanya merupakan satwa yang dilindungi.",
 			"address" : "Jalan Garden House, RT.8/RW.1, Kamal Muara, Penjaringan, Kota Jakarta Utara",
