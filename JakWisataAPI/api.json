@@ -15,11 +15,11 @@
             "places": [
               {
                 "name": "Menara",
-                "img": "https://jakarta-tourism.go.id/uploads/default/files/Menara_Syahbandar_121.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Menara_Syahbandar_121.jpg"
               },
               {
                 "name": "Topdal Tunda",
-                "img": "https://jakarta-tourism.go.id/uploads/default/files/Menara_Syahbandar_101.jpg"
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Menara_Syahbandar_101.jpg"
               }
             ]
           },
