@@ -100,7 +100,7 @@
             "review": "4.8",
             "description": "Mangrove Jakarta merupakan bagian dari kawasan hutan Angke Kapuk dengan luas 99,82 Ha. Jenis ekosistem yang menjadi habitat berbagai jenis burung air adalah ekosistem mangrove. Tempat ini sebagai sarana wisata alam dengan tetap menjaga kelestarian fungsi mangrove sebagai sistem penyangga kehidupan.\n\nSelain ekosistem mangrove, juga terdapat berbagai jenis hutan pantao/rawa dan fauna yang juga mendominasi kawasan ini, umumnya adalah jenis burung dan hampir semuanya merupakan satwa yang dilindungi.",
 			"address" : "Jalan Garden House, RT.8/RW.1, Kamal Muara, Penjaringan, Kota Jakarta Utara",
-			"jam_operasional" : "Sementara ini Tutup",
+			"jam_operasional" : "08.00 – 16.00 WIB",
 			"tiket_masuk" : "Dewasa : Rp 25.000 Anak-anak : Rp 10.000 Mobil : Rp 10.000 Motor : Rp 5.000 Turis/Asing : Rp 250.000",
             "places": [
               {
@@ -122,24 +122,20 @@
             ]
           },
 		  {
-            "name": "Gedung Joeang 45",
+            "name": "Taman Wisata Alam Angke Kapuk",
             "review": "4.7",
-            "description": "Bangunan yang sekarang digunakan sebagai Museum Joang 45 ini dibangun sekitar tahun 1920-an dan pada awalnya merupakan hotel yang dikelola oleh keluarga "L.C. Schomper", seorang warga negara Belanda yang telah lama tinggal di Batavia. Hotel ini diberi nama Hotel Schomper setelah nama pemilik Hotel pada waktu itu adalah hotel yang cukup terkenal di pinggiran selatan Batavia.\n\nDi museum ini, Anda bisa melihat jejak-jejak perjuangan kemerdekaan Indonesia dengan koleksi peninggalan para pejuang Indonesia. Fasilitas yang tersedia bagi pengunjung Museum Joang '45 adalah: Ruang Pameran dengan sudut multi media. Joang 45 Cinema, Studio yang menampilkan film dokumenter Perpustakaan referensi sejarah ilmiah, dilengkapi dengan buku komik untuk keperluan membaca anak-anak. Childrenroom, ruangan khusus kreativitas anak yang dilengkapi dengan game komputer hero, mewarnai, puzzle dan permainan menarik lainnya. Photo Studio, menyediakan kostum prajurit untuk dipakai pengunjung dan foto instan. Toko cendera mata. Plaza untuk kegiatan outdoor berupa Teater Anak.",
-			"address" : "Jl. Menteng Raya 31, Kebon Sirih, Menteng, Central Jakarta",
-			"jam_operasional" : "08.00 – 16.00 WIB",
-			"tiket_masuk" : "Parkir : Rp 3.000. Tiket Masuk : Rp 15.000/Orang.",
+            "description": "Mereka mengatakan alam dan udara segar adalah terapi terbaik, nah ini pasti benar karena begitu Anda tiba di Taman Wisata Angke Kapuk dan melihat keindahan alam ibu di sana, perasaan bahagia itu akan mengalir di setiap bagian tubuh Anda.\n\nTaman wisata Angke Kapuk berdiri sejak zaman penjajahan Belanda pada tahun 1939. Terletak di bagian utara Jakarta, Angke Kapuk dengan ekosistem mangrovenya menjadi rumah bagi ratusan satwa cantik seperti Elang Laut Perut Putih dan Bangau.\n\nAda banyak hal yang bisa kamu nikmati di Angke Kapuk, seperti melihat pemandangan (jelas), kamu juga bisa naik ke menara pengamatan burung dan melihat pemandangan yang indah di sana, kamu juga bisa menyewa perahu dan berkeliling area. . Jika Anda termasuk orang yang 'santai', Anda bisa duduk santai di salah satu kafe yang mereka miliki yang menghadap ke pemandangan mangrove yang indah dengan secangkir kopi di tangan Anda.\n\nMereka juga menyediakan beberapa penginapan dengan fasilitas yang baik dan harga yang baik jika Anda memutuskan untuk tinggal lebih lama. Mereka bahkan menyediakan paket bulan madu yang berisikan sunset boat yang romantis dan dan candle light dinner. Taman Wisata Angke Kapuk adalah salah satu tempat indah di Jakarta yang wajib kamu kunjungi!",
+			"address" : "Jl. Garden House No.4, RT.8/RW.3, Kamal Muara, Kec. Penjaringan, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14470",
+			"jam_operasional" : "08.00 – 17.00 WIB",
+			"tiket_masuk" : "Rp 15.000/Orang.",
             "places": [
               {
-                "name": "Bangunan Bersejarah",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Gedung_Joeang_1.jpg"
+                "name": "Wisata Air",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/nature/TWA-1.jpg"
               },
               {
-                "name": "Kendaraan Bersejarah",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Gedung_Joeang_5.jpg"
-              },
-              {
-                "name": "Diorama",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Gedung_Joeang_3.jpg"
+                "name": "Pondok Kemah",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/nature/TWA-2.jpg"
               }
             ]
           }
