@@ -32,6 +32,28 @@
             ]
           },
 		  {
+            "name": "Gedung Joeang 45",
+            "review": "4.7",
+            "description": "Bangunan yang sekarang digunakan sebagai Museum Joang 45 ini dibangun sekitar tahun 1920-an dan pada awalnya merupakan hotel yang dikelola oleh keluarga "L.C. Schomper", seorang warga negara Belanda yang telah lama tinggal di Batavia. Hotel ini diberi nama Hotel Schomper setelah nama pemilik Hotel pada waktu itu adalah hotel yang cukup terkenal di pinggiran selatan Batavia.\n\nDi museum ini, Anda bisa melihat jejak-jejak perjuangan kemerdekaan Indonesia dengan koleksi peninggalan para pejuang Indonesia. Fasilitas yang tersedia bagi pengunjung Museum Joang '45 adalah: Ruang Pameran dengan sudut multi media. Joang 45 Cinema, Studio yang menampilkan film dokumenter Perpustakaan referensi sejarah ilmiah, dilengkapi dengan buku komik untuk keperluan membaca anak-anak. Childrenroom, ruangan khusus kreativitas anak yang dilengkapi dengan game komputer hero, mewarnai, puzzle dan permainan menarik lainnya. Photo Studio, menyediakan kostum prajurit untuk dipakai pengunjung dan foto instan. Toko cendera mata. Plaza untuk kegiatan outdoor berupa Teater Anak.",
+			"address" : "Jl. Menteng Raya 31, Kebon Sirih, Menteng, Central Jakarta",
+			"jam_operasional" : "Sementara ini Tutup",
+			"tiket_masuk" : "Parkir : Rp 3.000. Tiket Masuk : Rp 15.000/Orang.",
+            "places": [
+              {
+                "name": "Bangunan Bersejarah",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Gedung_Joeang_1.jpg"
+              },
+              {
+                "name": "Kendaraan Bersejarah",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Gedung_Joeang_5.jpg"
+              },
+              {
+                "name": "Diorama",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Gedung_Joeang_3.jpg"
+              }
+            ]
+          },
+		  {
             "name": "Menara Syahbandar",
             "review": "4.2",
             "description": "Dulunya, menara ini dibangun oleh pemerintah kolonial Belanda sekitar tahun 1839 dan dikenal dengan nama Uitkijk. Menara ini berfungsi sebagai tempat untuk memantau kapal-kapal yang masuk dan keluar kota Batavia melalui jalur laut. Selain itu, menara ini juga digunakan sebagai kantor pabean yang merupakan tempat pemungutan pajak atas barang-barang yang dibongkar di Pelabuhan Sunda Kelapa.\n\nMenara harbourmaster memiliki ketinggian 12 meter dan ada tiga lantai yang bisa dikunjungi. Di lantai satu terdapat batu prasasti kedatangan seorang saudagar Cina pada abad ke-17. Prasasti batu tersebut merupakan penanda titik nol Batavia atau Jakarta saat itu. Naik ke lantai berikutnya, Anda bisa melihat banyak kotak kaca berisi teropong yang masih asli dan berusia hampir satu setengah abad. Teropong ini digunakan untuk memantau kapal. Di lantai dua, Anda akan melihat banyak jendela besar khas bangunan tua. Kemudian di lantai paling atas merupakan tempat untuk memantau kapal-kapal yang melewati jalur perdagangan keluar masuk Kota Batavia. Di lantai atas, Anda bisa melihat pemandangan di sekitar area Menara Syahbandar, mulai dari jembatan, bioskop pertama, monumen Pantura, dan Museum Bahari.",
@@ -59,25 +81,6 @@
 			"places": [
               {
                 "name": "Patung Taman Banteng",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Patung_Taman_Banteng_2.jpg"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Italy",
-        "tempat": [
-          {
-            "name": "Rome",
-            "review": "4.2",
-            "description": "Consectetur commodo pork shoulder qui in mollit. Minim veniam aliqua, cow leberkas pork short ribs salami. Jowl quis proident tri-tip leberkas, pork loin filet mignon swine bresaola eiusmod sirloin ribeye t-bone. Tenderloin pariatur lorem, tempor hamburger bresaola magna porchetta shank. Ut ribeye ad sausage kevin, t-bone anim chislic dolore cupim adipisicing. Shankle pork swine jerky pastrami leberkas.",
-            "address" : "a",
-			"jam_operasional" : "b",
-			"tiket_masuk" : "c",
-			"places": [
-              {
-                "name": "Coliseu",
                 "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Patung_Taman_Banteng_2.jpg"
               }
             ]
