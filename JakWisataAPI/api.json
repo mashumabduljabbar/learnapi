@@ -32,8 +32,8 @@
 			"tiket_masuk" : "Gratis",
 			"places": [
               {
-                "name": "Patung_Taman_Banteng_2",
-                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/place_de_la_bourse.jpg"
+                "name": "Patung Taman Banteng",
+                "img": "https://dev.ofon.co.id/learnapi/JakWisataAPI/heritage/Patung_Taman_Banteng_2.jpg"
               }
             ]
           }
